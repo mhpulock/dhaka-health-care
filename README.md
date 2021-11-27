@@ -1,9 +1,10 @@
 # Dhaka Health Care
 
 
-## people can easily get an appoinment doctor.
-## this site healps people find doctor.
-## this site healps people take good treatement.
+## 1. This is a Health Care site, which will help the sick patients to take quick treatment.
+## 2. User need to register or google login before booking an appointments.
+## 3. User can booking and cancel their appointments.
+## 4. this site healps people take good treatement.
 
 
 
